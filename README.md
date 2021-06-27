@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 <a href = "https://github.com/vjvijayashree">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=vjvijayashree&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=500">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=vjvijayashree&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=450">
 </a>
 </p>
 
