@@ -1,4 +1,4 @@
-Survived Pandemic? Me too! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+Survived Pandemic? Me too! <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/highfive.gif" width=35 height=35>
 
 - 👋 Hi, I’m VJ
 - 👀 I’m interested ML ...
@@ -12,7 +12,7 @@ vjvijayashree/vjvijayashree is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-### Worked with 
+### Worked with
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 <a href = "https://github.com/vjvijayashree">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=vjvijayashree&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=vjvijayashree&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=500">
 </a>
 </p>
 
